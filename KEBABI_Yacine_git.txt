@@ -1,0 +1,12 @@
+Nom :KEBABI
+  Prénom : Yacine Classe : CIEL1 Compte GitHub : ycckb
+
+Question 1 : Deuxième ligne de git status juste avant votre premier git push : Réponse 1 : Votre branche est en avance d'un commit sur origin/main.
+
+Question 2 : Message de commit que vous avez écrit pour l'ajout du VLAN 30 : Réponse 2 : Ajout du VLAN 30.
+
+Question 3 : Nombre de commits affichés sur la page GitHub de votre dépôt : Réponse 3 : [À vérifier sur GitHub]
+
+Question 4 : Dernière ligne de README.md après le git pull : Réponse 4 : [À recopier depuis le fichier README.md]
+
+Question 5 : Adresse de votre dépôt (bouton vert Code, onglet HTTPS) : Réponse 5 : [Lien HTTPS de votre dépôt GitHub]
